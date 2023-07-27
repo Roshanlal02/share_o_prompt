@@ -29,7 +29,7 @@ const NavBar = () => {
           height={30}
           className="object-contain"
         />
-        <p className="logo_text">Share 'O' Prompt</p>
+        <p className="logo_text">Share &apos;O&apos; Prompt</p>
       </Link>
 
       {/* Desktop Navigation */}
